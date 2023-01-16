@@ -1,0 +1,55 @@
+.navbar {
+    background-color: #009444;
+}
+
+.bg-qadr {
+    background-color: #009444 !important;
+}
+
+.logo-qadr {
+    width: 50px;
+    height: auto;
+}
+
+.img-detail-doctor {
+    width: 150px;
+    height: auto;
+}
+
+.carousel {
+    margin-top: 70px !important;
+}
+
+.logo-kars {
+    width: 150px;
+    height: auto;
+}
+
+.line {
+    background-color: #fff 1px;
+}
+
+.hubungikamitext {
+    margin-top: 200px;
+}
+
+.btnHubungikami, .btn-qadr {
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #009444;
+}
+
+.btnHubungikami:hover, .btn-qadr:hover {
+    color: #fff;
+}
+
+.footer {
+    background-color: #009444;
+}
+
+.img-spesialis {
+    height: auto;
+    min-width: 100%;
+}
